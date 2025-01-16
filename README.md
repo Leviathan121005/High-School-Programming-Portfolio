@@ -1,26 +1,50 @@
 # Programming Portfolio
 ## 1. LISM Web Application
+A web application to make checklists.  
+
 Languages: Python, SQL, HTML, CSS, & JavaScript  
 
-Description:
+How to run:  
 ## 2. Gomoku Game
+A classic strategy game, also known as "Five in a Row" game.  
+
 Language: Java  
 
-Description:  
+How to run:  
+
+How to play:  
 ## 3. Snake Game
+A classic arcade video game.  
+
 Language: Python  
 
-Description:  
-
-How to run: 
+How to run:  
 - Download "SnakeGame.py" to your local computer
 - Run "python3 SnakeGame.py" on your codespaces' terminal
+  
+How to play:  
 ## 4. Terminal Chat Room
+A multithreading implementation where terminals share texts concurrently.  
+
 Language: Java  
 
-Description:  
+How to run:  
+
+How to use:  
 ## 5. 
-Visual Programming Language: MIT App Inventor
+A space-themed arcade game.  
+
+Visual Programming Language: MIT App Inventor  
+
+How to run:  
+
+How to play:  
 ## 6.
-Visual Programming Language: Scratch
+A space-themed arcade game.  
+
+Visual Programming Language: Scratch  
+
+How to run:  
+
+How to play:  
 
