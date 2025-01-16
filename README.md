@@ -1,10 +1,17 @@
 # Programming Portfolio
 ## 1. LISM Web Application
-A web application to make checklists.  
+<picture>
+  <img alt="LISM preview" src="/Previews/LISMPreview.png">
+</picture>
+
+> ***A web application to make checklists***
 
 Languages: Python, SQL, HTML, CSS, & JavaScript  
 
 How to run:  
+
+How to use:  
+
 ## 2. Gomoku Game
 A classic strategy game, also known as "Five in a Row" game.  
 
