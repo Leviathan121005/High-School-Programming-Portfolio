@@ -4,5 +4,5 @@
     "image": "mcr.microsoft.com/devcontainers/python",
     // install libs after the creation of the environement 
     // by using a simple bash command
-    "postCreateCommand": "python -m pip install flask && pip install cs50 && pip install flask_session"
+    "postCreateCommand": "python -m pip install flask && pip install cs50 && pip install flask_session && pip install requests"
   }
