@@ -4,16 +4,18 @@
   <img alt="LISM preview" src="/Previews/LISMPreview.png">
 </picture>
 
-> ***A web application to make checklists***
+Description: A web application to make checklists.  
 
-Languages: Python, SQL, HTML, CSS, & JavaScript  
+Languages: Python, SQL, HTML, CSS, & JavaScript.  
 
-How to run:  
+How to run:
+- 
+- 
 
 How to use:  
 
 ## 2. Gomoku Game
-A classic strategy game, also known as "Five in a Row" game.  
+Description: A classic strategy game, also known as "Five in a Row" game.  
 
 Language: Java  
 
