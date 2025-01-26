@@ -9,11 +9,11 @@ Description: A web application to make checklists.
 Languages: Python, SQL, HTML, CSS, & JavaScript.  
 
 How to run:
-- Press ` . ` to open a VS Code web-based editor.
-- On the terminal, click on "Continue Working in Github Codespaces" and select any instance type to build a codespace with access to terminal.
-- Type `cd LISM` to change the directory into the LISM folder.
-- Type `flask run` to start the web application.
-- Open the link provided in the terminal to enter the website.
+- Press ` . ` on your keyboard to open a VS Code web-based editor.
+- In the terminal window, click "Continue Working in Github Codespaces" and select any instance type to build another codespace with command-line terminal.
+- In the new codespace, type `cd LISM` in the terminal window to change the directory into the LISM folder.
+- Continue by typing `flask run` to start the web application on your local port.
+- Open the link provided from the previous prompt to access the web application.
 
 How to use:  
 
