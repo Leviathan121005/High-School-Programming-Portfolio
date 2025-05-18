@@ -16,33 +16,6 @@ How to run:
 - Open the link provided from the previous prompt to access the web application.
 
 How to use:  
-
-## 2. Gomoku Game
-Description: A classic strategy game, also known as "Five in a Row" game.  
-
-Language: Java  
-
-How to run:  
-
-How to play:  
-## 3. Snake Game
-A classic arcade video game.  
-
-Language: Python  
-
-How to run:  
-- Download "SnakeGame.py" to your local computer
-- Run "python3 SnakeGame.py" on your codespaces' terminal
-  
-How to play:  
-## 4. Terminal Chat Room
-A multithreading implementation where terminals share texts concurrently.  
-
-Language: Java  
-
-How to run:  
-
-How to use:  
 ## 5. 
 A space-themed arcade game.  
 
