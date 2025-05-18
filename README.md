@@ -1,7 +1,7 @@
 # High School Programming Portfolio
 ## 1. LISM Web Application
 <picture>
-  <img alt="LISM Preview" src="/Previews/LISM Preview.png">
+  <img alt = "LISM Preview" src = "/Previews/LISM Preview.png">
 </picture> 
 
 
@@ -17,22 +17,32 @@ How to run:
 [Demo](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/Ebv7MHUmxelOr13W5j-kmdkBcvWruDGAYTAiicedbPDCqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=de7iBg)
 
 ## 2. MIT App Inventor Spaceship Game
-<picture>
-  <img alt="MIT App Inventor Spaceship Game Preview" src="/Previews/MIT App Inventor Spaceship Game Preview.png" width="80%">
-</picture> 
+<div align = "center">
+  <picture>
+    <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Previews/MIT App Inventor Spaceship Game Preview.png" width = "60%">
+  </picture> 
+</div>
 
 
 [Demo](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/ERm-Dt_jSxlFu71w8SzB3KUBETgsZ9k5xGO962Nz4vpH7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T9SkM2)
 
 ## 3. Scratch Space Themed Game
-<picture>
-  <img alt="Scratch Space Themed Game Preview" src="/Previews/Scratch Space Themed Game Preview.png" width="80%">
-</picture>
-
-<picture>
-  <img alt="Scratch Space Themed Game Preview 2" src="/Previews/Scratch Space Themed Game Preview 2.png" width="80%">
-</picture>
-
+<table cellspacing = "0" cellpadding = "0" style = "border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- Left Column -->
+    <td width = "50%" style = "padding: 0; border: none;">
+      <picture>
+        <img alt="Scratch Space Themed Game Preview" src="/Previews/Scratch Space Themed Game Preview.png">
+      </picture>
+    </td>
+    <!-- Right Column -->
+    <td width = "50%" style = "padding: 0; border: none;">
+      <picture>
+        <img alt = "Scratch Space Themed Game Preview 2" src = "/Previews/Scratch Space Themed Game Preview 2.png">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 Link: https://scratch.mit.edu/projects/600558465
 
