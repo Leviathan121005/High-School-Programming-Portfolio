@@ -1,10 +1,8 @@
 # Programming Portfolio
 ## 1. LISM Web Application
 <picture>
-  <img alt="LISM preview" src="/Previews/LISMPreview.png">
-</picture>
-
-Description: A web application to make checklists.  
+  <img alt="LISM Preview" src="/Previews/LISM Preview.png">
+</picture> 
 
 Languages: Python, SQL, HTML, CSS, & JavaScript.  
 
@@ -15,21 +13,25 @@ How to run:
 - Continue by typing `flask run` to start the web application on your local port.
 - Open the link provided from the previous prompt to access the web application.
 
-How to use:  
-## 5. 
-A space-themed arcade game.  
+[Demo](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/Ebv7MHUmxelOr13W5j-kmdkBcvWruDGAYTAiicedbPDCqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=de7iBg)
 
-Visual Programming Language: MIT App Inventor  
+## 2. MIT App Inventor Spaceship Game
+<picture>
+  <img alt="MIT App Inventor Spacehip Game Preview" src="/Previews/MIT App Inventor Spacehip Game Preview.png">
+</picture> 
 
-How to run:  
+[Demo](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/ERm-Dt_jSxlFu71w8SzB3KUBETgsZ9k5xGO962Nz4vpH7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T9SkM2)
 
-How to play:  
-## 6.
-A space-themed arcade game.  
+## 3. Scratch Space Themed Game
+<iframe src="https://scratch.mit.edu/projects/600558465/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<picture>
+  <img alt="Scratch Space Game Themed Preview" src="/Previews/Scratch Space Game Themed Preview.png">
+</picture>
+<picture>
+  <img alt="Scratch Space Game Themed Preview 2" src="/Previews/Scratch Space Game Themed Preview 2.png">
+</picture>
 
-Visual Programming Language: Scratch  
+Link: https://scratch.mit.edu/projects/600558465
 
-How to run:  
-
-How to play:  
-
+Controls:
+- Press **Arrow Keys** (`↑`, `↓`, `←`, `→`), **Arrow Keys** (`↑`, `↓`) 
