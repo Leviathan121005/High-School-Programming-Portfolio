@@ -1,8 +1,8 @@
 # High School Programming Portfolio
 ## 1. LISM Web Application
-<picture>
+<p>
   <img alt = "LISM Preview" src = "/Previews/LISM Preview.png">
-</picture> 
+</p> 
 
 
 Languages: Python, SQL, HTML, CSS, & JavaScript.  
@@ -19,11 +19,9 @@ How to run:
 [Demo Video](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/Ebv7MHUmxelOr13W5j-kmdkBcvWruDGAYTAiicedbPDCqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=de7iBg)
 
 ## 2. Spaceship Game
-<div align = "center">
-  <picture>
-    <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Previews/MIT App Inventor Spaceship Game Preview.png" width = "60%">
-  </picture> 
-</div>
+<p align = "center">
+  <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Previews/MIT App Inventor Spaceship Game Preview.png" width = "60%">
+</p>
 
 
 Visual Programming Language: MIT App Inventor
@@ -41,22 +39,10 @@ Mechanics:
 [Demo Video](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/ERm-Dt_jSxlFu71w8SzB3KUBETgsZ9k5xGO962Nz4vpH7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T9SkM2)
 
 ## 3. Space Themed Platform Game
-<table cellspacing = "0" cellpadding = "0" style = "border-collapse: collapse; width: 100%;">
-  <tr>
-    <!-- Left Column -->
-    <td width = "50%" style = "padding: 0; border: none;">
-      <picture>
-        <img alt="Scratch Space Themed Game Preview" src="/Previews/Scratch Space Themed Game Preview.png">
-      </picture>
-    </td>
-    <!-- Right Column -->
-    <td width = "50%" style = "padding: 0; border: none;">
-      <picture>
-        <img alt = "Scratch Space Themed Game Preview 2" src = "/Previews/Scratch Space Themed Game Preview 2.png">
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align = "center" style = "margin: 0; padding: 0;">
+  <img alt = "Scratch Space Themed Game Preview" src = "/Previews/Scratch Space Themed Game Preview.png" width = "49.75%" style = "margin:0; padding: 0; display: inline-block;">
+  <img alt = "Scratch Space Themed Game Preview 2" src = "/Previews/Scratch Space Themed Game Preview 2.png" width = "49.75%" style = "margin: 0; padding: 0; display: inline-block;">
+</p>
 
 
 Visual Programming Language: Scratch
