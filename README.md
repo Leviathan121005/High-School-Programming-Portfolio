@@ -18,7 +18,7 @@ How to run:
 
 [Demo Video](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/Ebv7MHUmxelOr13W5j-kmdkBcvWruDGAYTAiicedbPDCqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=de7iBg)
 
-## 2. MIT App Inventor Spaceship Game
+## 2. Spaceship Game
 <div align = "center">
   <picture>
     <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Previews/MIT App Inventor Spaceship Game Preview.png" width = "60%">
@@ -26,9 +26,21 @@ How to run:
 </div>
 
 
+Visual Programming Language: MIT App Inventor
+
+Description:
+
+How to run:
+
+Gameplay:
+
+Controls:
+
+Mechanics:
+
 [Demo Video](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/ERm-Dt_jSxlFu71w8SzB3KUBETgsZ9k5xGO962Nz4vpH7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T9SkM2)
 
-## 3. Scratch Space Themed Game
+## 3. Space Themed Platform Game
 <table cellspacing = "0" cellpadding = "0" style = "border-collapse: collapse; width: 100%;">
   <tr>
     <!-- Left Column -->
@@ -46,7 +58,12 @@ How to run:
   </tr>
 </table>
 
-Link: https://scratch.mit.edu/projects/600558465
+
+Visual Programming Language: Scratch
+
+Description:
+
+How to run: Open the following link and press the green flag button to run the game. https://scratch.mit.edu/projects/600558465
 
 Gameplay: Move forward to retrieve a target object at the end of the sliding platform and return to the spawn location while dodging obstacles.
 
