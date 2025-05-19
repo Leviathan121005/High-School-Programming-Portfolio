@@ -1,7 +1,7 @@
 # High School Programming Portfolio
 ## 1. LISM Web Application
 <picture>
-  <img alt = "LISM Preview" src = "/Preview/LISM Preview.png">
+  <img alt = "LISM Preview" src = "/Previews/LISM Preview.png">
 </picture> 
 
 
