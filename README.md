@@ -40,7 +40,7 @@ Controls:
 - Press the left and right area of the space field to rotate the spaceship and change its shooting direction accordingly.
 
 Mechanics:
-- Starts with 3 HP, lose 1 each time an obstacle hit the spaceship.
+- The spaceship starts with 3 HP, lose 1 each time an obstacle hit the spaceship.
 - The score increments by 1 for each second survived, and by 5 when an obstacle is destroyed.
 
 [Demo Video](https://cuhko365-my.sharepoint.com/:v:/g/personal/123040049_link_cuhk_edu_cn/EVdnPkaHdINJnz-zulotUAsBbO9KEKdFMvYWv7C3pt4C2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fWK708)
@@ -66,4 +66,4 @@ Controls:
 
 Mechanics:
 - The 3 armor symbols on the top right represent the lives. The player will be teleported back to a respawn point if all 3 armor is lost.
-- Battery icon on the top left represents jetpack availability. Jetpack will not activate when the battery is depleted. The battery recharges when not in use.
+- The battery icon on the top left represents jetpack availability. Jetpack will not activate when the battery is depleted. The battery recharges when not in use.
