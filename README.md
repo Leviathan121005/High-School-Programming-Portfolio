@@ -19,7 +19,7 @@ How to run:
 
 ## 2. Spaceship Game
 <p align = "center">
-  <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Previews/MIT App Inventor Spaceship Game Preview.png" width = "60%">
+  <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Previews/MIT App Inventor Spaceship Game Preview.png">
 </p>
 
 
