@@ -11,7 +11,7 @@ Description: LISM (short for list them) is a dynamic web application to create, 
 
 How to run:
 - Open this repository in a codespace.
-- Type `cd LISM` in the terminal window to change the directory into the LISM folder.
+- Type `cd LISM` in the terminal window to change the directory.
 - Continue by typing `flask run` to start the web application on your local port.
 - Open the link provided from the previous prompt to access the web application.
 
