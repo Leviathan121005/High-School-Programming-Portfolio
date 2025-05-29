@@ -1,7 +1,7 @@
 # High School Programming Portfolio
 ## 1. LISM Web Application
 <p>
-  <img alt = "LISM Preview" src = "/Previews/LISM Preview.png">
+  <img alt = "LISM Preview" src = "/LISM Web Application/LISM Web Application Preview.png">
 </p> 
 
 
@@ -19,7 +19,7 @@ How to run:
 
 ## 2. Spaceship Game
 <p align = "center">
-  <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Previews/MIT App Inventor Spaceship Game Preview.png" width = "85%">
+  <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Spaceship Game/Spaceship Game Preview.png" width = "85%">
 </p>
 
 
