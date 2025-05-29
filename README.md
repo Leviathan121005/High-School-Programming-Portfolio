@@ -11,7 +11,7 @@ Description: LISM (short for list them) is a dynamic web application to create, 
 
 How to run:
 - Open this repository in a codespace.
-- Type `cd LISM` in the terminal window to change the directory.
+- Type `cd "LISM Web Application"` in the terminal window to change directory.
 - Continue by typing `flask run` to start the web application on your local port.
 - Open the link provided from the previous prompt to access the web application.
 
@@ -29,7 +29,7 @@ Description: A simple, classic spaceship arcade game that runs on android mobile
 
 How to run:
 - Open <a href = "http://appinventor.mit.edu/"> MIT App Inventor</a> and create a new account or login to an existing one.
-- Download the `Spaceship.aia` file in the `Spaceship` folder and import it into your account.
+- Download the `Spaceship_Game.aia` file in the `Spaceship Game` folder and import it into your account.
 - For the next steps, please refer to https://appinventor.mit.edu/explore/ai2/setup-device-wifi.
 
 Gameplay: Pilot a spaceship through an endless space field. Survive and obtain score by dodging or blasting incoming obstacles.
@@ -47,8 +47,8 @@ Mechanics:
 
 ## 3. Space Themed Platform Game
 <p align = "center" style = "margin: 0; padding: 0;">
-  <img alt = "Scratch Space Themed Game Preview" src = "/Previews/Scratch Space Themed Game Preview.png" width = "49.5%" style = "margin:0; padding: 0; display: inline-block;">
-  <img alt = "Scratch Space Themed Game Preview 2" src = "/Previews/Scratch Space Themed Game Preview 2.png" width = "49.5%" style = "margin: 0; padding: 0; display: inline-block;">
+  <img alt = "Scratch Space Themed Game Preview" src = "/Space Themed Platform Game/Space Themed Platform Game Preview.png" width = "49.5%" style = "margin:0; padding: 0; display: inline-block;">
+  <img alt = "Scratch Space Themed Game Preview 2" src = "/Space Themed Platform Game/Space Themed Platform Game Preview 2.png" width = "49.5%" style = "margin: 0; padding: 0; display: inline-block;">
 </p>
 
 
