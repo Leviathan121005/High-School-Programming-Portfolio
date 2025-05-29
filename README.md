@@ -1,7 +1,7 @@
 # High School Programming Portfolio
 ## 1. LISM Web Application
 <p>
-  <img alt = "LISM Preview" src = "/LISM Web Application/LISM Web Application Preview.png">
+  <img alt = "LISM Web Application Preview" src = "/LISM Web Application/LISM Web Application Preview.png">
 </p> 
 
 
@@ -19,7 +19,7 @@ How to run:
 
 ## 2. Spaceship Game
 <p align = "center">
-  <img alt = "MIT App Inventor Spaceship Game Preview" src = "/Spaceship Game/Spaceship Game Preview.png" width = "85%">
+  <img alt = "Spaceship Game Preview" src = "/Spaceship Game/Spaceship Game Preview.png" width = "85%">
 </p>
 
 
@@ -47,8 +47,8 @@ Mechanics:
 
 ## 3. Space Themed Platform Game
 <p align = "center" style = "margin: 0; padding: 0;">
-  <img alt = "Scratch Space Themed Game Preview" src = "/Space Themed Platform Game/Space Themed Platform Game Preview.png" width = "49.5%" style = "margin:0; padding: 0; display: inline-block;">
-  <img alt = "Scratch Space Themed Game Preview 2" src = "/Space Themed Platform Game/Space Themed Platform Game Preview 2.png" width = "49.5%" style = "margin: 0; padding: 0; display: inline-block;">
+  <img alt = "Space Themed Platform Game Preview" src = "/Space Themed Platform Game/Space Themed Platform Game Preview.png" width = "49.5%" style = "margin:0; padding: 0; display: inline-block;">
+  <img alt = "Space Themed Platform Game Preview 2" src = "/Space Themed Platform Game/Space Themed Platform Game Preview 2.png" width = "49.5%" style = "margin: 0; padding: 0; display: inline-block;">
 </p>
 
 
